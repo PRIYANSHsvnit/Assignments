@@ -9,5 +9,5 @@ int main()
     c=a;
     a=b;
     b=c;
-    printf("New value of a =  New value of b = %d",a,b);
+    printf("New value of a = %d New value of b = %d",a,b);
 }
