@@ -35,4 +35,6 @@ int main()
     {
         printf("\n %lld isNotFibo",n);
     }
+
+    return 0;
 }
